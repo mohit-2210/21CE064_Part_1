@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import static java.lang.Math.min;
     public class Main{
-    public static void main(String[] args) {
+    public static void main(String[] args){
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter first string : ");
     String S1=sc.next();
