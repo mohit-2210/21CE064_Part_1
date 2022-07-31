@@ -10,12 +10,10 @@ public class Main
     }
     static void startOz(String a)
     {
-        if (a.charAt (0) == 'O' || a.charAt (0) == 'o')
-        {
+        if (a.charAt (0) == 'O' || a.charAt (0) == 'o'){
             System.out.print (a.charAt (0));
         }
-        if (a.charAt (1) == 'z' || a.charAt (1) == 'Z')
-        {
+        if (a.charAt (1) == 'z' || a.charAt (1) == 'Z'){
             System.out.print (a.charAt (1));
         }
     }
